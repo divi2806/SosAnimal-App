@@ -50,6 +50,6 @@ Before cloning/forking this project, make sure you have the following tools inst
 
 [//]: contributor-faces
 
-<a href="https://github.com/divi2806"><img src="https://avatars.githubusercontent.com/u/54622834?v=4" title="Julia Undeutsch" width="80" height="80"></a>
+<a href="https://github.com/divi2806"><img src="https://avatars.githubusercontent.com/u/142254266?s=400&u=79cba8252a465c0953ccd8d30f38d22a73875309&v=4" title="Divyansh Sharma" width="80" height="80"></a>
 
 [//]: contributor-faces
