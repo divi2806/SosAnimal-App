@@ -28,7 +28,7 @@ https://user-images.githubusercontent.com/54622834/127658950-b1964a1c-dfc3-4853-
 
 # Contribution
 
-To contribute to this project please check out the [contribution guidelines](https://github.com/YurisCodingClub/accessibility-mentor/blob/main/CONTRIBUTING.md).
+To contribute to this project please check out the [contribution guidelines].
 
 ## Prerequisits
 
